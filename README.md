@@ -15,6 +15,7 @@ Training a YOLOv8 model on traffic object dataset, so that it can detect objects
 For the training dataset, you can download it from [here](https://drive.google.com/drive/folders/1cN_cDove4POQnAzi8BB1n_-lWa7QKiFC?usp=sharing).
 
 There are 2 folders in the zip file: **dataset** and **addition**, and these 2 folders are used for the training.
+
 Meanwhile, test_video_1 and test_video_2 are 2 testcase videos for inference by the trained model.
 
 ## Deployment
@@ -30,7 +31,8 @@ To deploy this project, please do these following steps:
 
 ## Demo
 
-Insert gif or link to demo
+Here are some demo videos
+![Watch the video](https://youtu.be/bkNN-X7U_o4)
 
 
 ## Related
