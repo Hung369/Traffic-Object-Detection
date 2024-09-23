@@ -32,7 +32,14 @@ To deploy this project, please do these following steps:
 ## Demo
 
 Here are some demo videos
+
+First video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bkNN-X7U_o4/0.jpg)](https://www.youtube.com/watch?v=bkNN-X7U_o4)
+
+Second video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PoGs9knxQOE/0.jpg)](https://youtu.be/PoGs9knxQOE)
 
 
 ## Related
