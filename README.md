@@ -59,6 +59,34 @@ year = { 2024 },
 month = { mar },
 note = { visited on 2024-09-23 },
 }
+
+@misc{
+train_dataset-qoqeb_dataset,
+title = { train_dataset Dataset },
+type = { Open Source Dataset },
+author = { Major Project },
+howpublished = { \url{ https://universe.roboflow.com/major-project-qscuq/train_dataset-qoqeb } },
+url = { https://universe.roboflow.com/major-project-qscuq/train_dataset-qoqeb },
+journal = { Roboflow Universe },
+publisher = { Roboflow },
+year = { 2024 },
+month = { sep },
+note = { visited on 2024-09-23 },
+}
+
+@misc{
+detection-ydrk9_dataset,
+title = { Detection  Dataset },
+type = { Open Source Dataset },
+author = { saifullah },
+howpublished = { \url{ https://universe.roboflow.com/saifullah/detection-ydrk9 } },
+url = { https://universe.roboflow.com/saifullah/detection-ydrk9 },
+journal = { Roboflow Universe },
+publisher = { Roboflow },
+year = { 2024 },
+month = { aug },
+note = { visited on 2024-09-23 },
+}
 ```
 
-* YOLOv8 paper 
+* YOLOv8 [paper](https://arxiv.org/pdf/2305.09972) 
