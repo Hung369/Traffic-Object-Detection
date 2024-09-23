@@ -44,20 +44,21 @@ Second video:
 
 ## Related
 * Dataset ref
-'''yaml
-  @misc{
-                            traffic-object-hgekc_dataset,
-                            title = { traffic object Dataset },
-                            type = { Open Source Dataset },
-                            author = { university project },
-                            howpublished = { \url{ https://universe.roboflow.com/university-project-zqrun/traffic-object-hgekc } },
-                            url = { https://universe.roboflow.com/university-project-zqrun/traffic-object-hgekc },
-                            journal = { Roboflow Universe },
-                            publisher = { Roboflow },
-                            year = { 2024 },
-                            month = { mar },
-                            note = { visited on 2024-09-23 },
+
+``` yaml
+@misc{
+traffic-object-hgekc_dataset,
+title = { traffic object Dataset },
+type = { Open Source Dataset },
+author = { university project },
+howpublished = { \url{ https://universe.roboflow.com/university-project-zqrun/traffic-object-hgekc } },
+url = { https://universe.roboflow.com/university-project-zqrun/traffic-object-hgekc },
+journal = { Roboflow Universe },
+publisher = { Roboflow },
+year = { 2024 },
+month = { mar },
+note = { visited on 2024-09-23 },
 }
-'''
+```
 
 * YOLOv8 paper 
